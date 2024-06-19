@@ -1,0 +1,20 @@
+{
+	"type": "module",
+	"name": "eventemitter",
+	"version": "1.0.0",
+	"description": "creates an eventEmitter from the scratch",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alexpbt/eventEmitter.git"
+	},
+	"author": "Fabian Romero",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/alexpbt/eventEmitter/issues"
+	},
+	"homepage": "https://github.com/alexpbt/eventEmitter#readme"
+}
